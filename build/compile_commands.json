@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/deepak/ubuntu/Robotics/AR/project/build",
+  "command": "/usr/bin/c++    -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev -isystem /opt/ros/kinetic/include/opencv-3.3.1-dev/opencv  -g   -o CMakeFiles/output.dir/ar_project.cpp.o -c /home/deepak/ubuntu/Robotics/AR/project/ar_project.cpp",
+  "file": "/home/deepak/ubuntu/Robotics/AR/project/ar_project.cpp"
+}
+]

@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.5)
+project(AR_project)
+find_package(OpenCV REQUIRED)
+include_directories(${OpenCV_INCLUDE_DIRS})
+add_executable(output ar_project.cpp)
+target_link_libraries(output ${OpenCV_LIBS})
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
