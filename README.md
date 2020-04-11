@@ -1,4 +1,6 @@
-Algorithm to use for this project:
+## Augmented Reality - Digital drawing
+
+**Algorithm to use for this project:**
 
 
    - Camshift algorithm:
